@@ -1,0 +1,56 @@
+body {
+	text-align: center;
+	font-style: normal;
+    font-family: 'Indie Flower', cursive;
+	background-image:  url("images/1372935293-bwhp-background.jpg");
+    	 background-color: #1695A3;
+    	text-decoration-color: #FFFFFF;
+
+
+    	
+}
+ p {
+ 	font-size: 40px;
+ 	text-decoration-color: #EB7F00;
+ 	font-weight: bold;
+
+ }
+
+ h3 {
+ 	text-align: center;
+ }
+
+
+img {
+max-height: 400px;
+max-width: 300px;
+width: 300px;
+height: 400px;
+margin: 40px 0px 0px 0px;
+border: 7px; 
+border-radius: 20px;
+border-color: #FFA500;
+}
+ 
+img.resize {
+max-height: 20px;
+max-width: 20px;
+width: 20px;
+height: 20px;
+ }
+
+#page2
+img {
+	max-height: 100px;
+max-width: 100px;
+width: 500px;
+height: 100px;
+
+}
+
+
+
+
+
+
+

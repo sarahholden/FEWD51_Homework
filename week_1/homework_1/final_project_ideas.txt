@@ -1,0 +1,6 @@
+1.I want to creat a personal website for fianl project.
+2.I want to have a cover page on my website.
+3.I want to create a hanberger navigation bar to show and hide my navigation when mouse click.
+4. add carousel to show my images.
+
+

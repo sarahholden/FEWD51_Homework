@@ -1,0 +1,39 @@
+
+
+	
+/*------ PART 1 -------------------------*/
+/* 1. Change the background-color for the body to #1695A3*/
+ body {
+ 	background-color: black;
+ 	color: white;
+ 	tex-align:right;
+ }
+<i class="em em-arrow_forward"></i>
+
+
+/* 2. Change the text color for the body to #FFFFFF*/
+
+/* 3. Change the text color for the paragraph element to #EB7F00*/
+p {
+	font-size:12pt;
+	font-family:arial;
+	text-align: right;
+}
+
+/*------ PART 2 -------------------------*/
+/*1. Center the h3*/
+h1 {
+	font-family:helvetica
+}
+h2{font-family:verdana;}
+h3 {
+	font-family:helvetica;
+	font-size:130%;
+}
+h4 {font-family:verdana}
+
+/*2. Change the font-size of the paragraph element to 40px and the font-weight to bold*/
+
+/*3. Change the text color for the paragraph element to #EB7F00*/
+
+/*4. Remove the default underline from the anchor tag below*/
